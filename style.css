@@ -18,7 +18,7 @@
 /* General styles */
 
 html {
-    background: rgba(0, 0, 0, 0) url("./images/film-22.jpg") no-repeat center center fixed;
+    background: rgba(0, 0, 0, 0) url(".../images/film-22.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 
