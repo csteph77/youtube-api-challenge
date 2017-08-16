@@ -1,4 +1,5 @@
 /* CSS Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -15,14 +16,17 @@
     -webkit-padding-end: 0px;
 }
 
+
 /* General styles */
 
 html {
-    background: rgba(0, 0, 0, 0) url(".../images/film-22.jpg") no-repeat center center fixed;
+    background: rgba(0, 0, 0, 0) url("./images/film-22.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 
+
 /*Header Styles*/
+
 
 /*Content Styles*/
 
@@ -115,7 +119,10 @@ html {
     border-bottom: 1px solid #434343;
     min-height: 4rem;
 }
+
+
 /*Footer Styles*/
+
 
 /*Responsive Sytles */
 
